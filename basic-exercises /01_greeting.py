@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+city = input("What is your city ")
+language = input("What is your favourite language ")
+print("Hello,", name + "!")
+print("It's cool you're from", city + ".")
+print(language, "is a great choice.")
